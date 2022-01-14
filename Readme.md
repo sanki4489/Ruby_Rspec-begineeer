@@ -1,9 +1,9 @@
-Author - Sankalp Verma
+##Author - Sankalp Verma
 Topic - Rspec intro to the begineer level
 
 ---
 
-Different ways of testing code and Rspec config settings:-
+##Different ways of testing code and Rspec config settings
 Default left(global level, local level, cmd level)
 1.To produce colour based output
 --no-color --color
@@ -25,7 +25,7 @@ filename_spec.rb:line_number
 
 ---
 
-Pending and skipping Examples
+##Pending and skipping Examples
 Pending:-
 1.omit the block
 --Dont provide block to it/describe
@@ -42,7 +42,7 @@ Skipping:-
 
 ---
 
-Rspec hierarchy
+##Rspec hierarchy
 1.spec file ---> filename_spec.rb
 
 2.example group ---> describe
